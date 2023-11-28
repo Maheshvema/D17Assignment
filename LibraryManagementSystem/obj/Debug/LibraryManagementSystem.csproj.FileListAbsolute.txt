@@ -1,0 +1,7 @@
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-17 Assignment\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-17 Assignment\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-17 Assignment\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-17 Assignment\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-17 Assignment\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-17 Assignment\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-17 Assignment\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
